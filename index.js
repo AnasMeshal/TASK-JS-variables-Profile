@@ -14,7 +14,7 @@
 const fullName = "can't say that";
 const yearOfBirth = 1990;
 let hobby = "cooking";
-let funFact = "im right handed";
+let funFact = "im right` handed";
 const image =
   "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500";
 
